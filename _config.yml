@@ -1,0 +1,17 @@
+# Welcome to Jekyll!
+title: Yogi Hermawan
+url: https://yhpgi.github.io
+description: >
+  Yogi's homepage.
+
+# Outputting
+permalink:  /:title
+timezone:   Asia/Jakarta
+
+# Custom
+color:
+  theme: '#00ADB5 !default'
+  text: '#333333 !default'
+  background: '#fdfdfd !default'
+
+date_format: '%d-%m-%Y'

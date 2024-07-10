@@ -1,0 +1,10 @@
+intro:
+    name: Yogi Hermawan
+    desc: Yet another programmer
+    avatar:
+        display: true
+        path: profile.png
+social:
+    email: yogist.xda@gmail.com
+    github: yhpgi
+
